@@ -1,2 +1,2 @@
 # Agentic-AI-course
-Homework for the agentic AI course by Alexey Grigorev
+Homework-related material in the context of the online course about agentic AI by Alexey Grigorev. See "AI Bootcamp: From RAG to Agents" on Maven.
