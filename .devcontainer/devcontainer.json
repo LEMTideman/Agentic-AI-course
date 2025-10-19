@@ -1,0 +1,4 @@
+{
+  "name": "My Dev Container",
+  "postCreateCommand": "bash -lc 'curl -LsSf https://astral.sh/uv/install.sh | sh'"
+}
